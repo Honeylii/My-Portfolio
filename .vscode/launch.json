@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "http://data.title",
+            "request": "launch",
+            "url": "http://data.title"
+        }
+    ]
+}
